@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project gstation -->
+<!-- Saved: 2017-11-08, 23:33:09 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{aaf56f82-7548-4533-bfab-abd9fb9d78d9}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2017-11-08, 23:32:59</Created>
+    <Resource>
+      <Filename>all.py</Filename>
+      <Linenumber>57</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
